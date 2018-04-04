@@ -1,0 +1,60 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;	
+	color: #545454;
+}
+.cover{
+	height: 80vh;
+	background-color: #efefef;
+	padding-top:40px;
+	padding-left: 150px;
+	padding-right: 150px;
+	font-size: 	14px;
+}
+
+.cover--head--2{
+	float: right;
+	margin-right: 30px;
+	cursor: pointer;
+}
+.cover--head--3{
+	float: right;
+}
+.cover--2{
+	margin-top: 205px;
+	font-size:24px;
+	color: #545454;
+}
+.cover--3{
+	font-size:24px;
+	color: #545454;
+}
+.cover--bottom{
+	padding-top:24px;
+	padding-bottom: 24px;
+	margin-left: 150px;
+	border-bottom: 1px solid #d8d8d8;
+}
+.sec--1{
+	padding-top: 176px;
+	padding-left: 150px;
+}
+.head--1{
+	
+	opacity: 1;
+	font-size: 16px;
+
+}
+.head--1--1{
+	opacity: 0.4;
+	font-size: 16px;
+}
+.img1{
+	position: relative;
+    top: -190px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    left: -83px;
+}
